@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Omar Yasser <img src="https://media.giphy.com/media/hvRJk4Ezama1ykMAGG/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Omar Yasser</h1>
 
 <div align="center">
   <a href="https://github.com/omaryasser3060">
