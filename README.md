@@ -7,10 +7,6 @@
   <a href="https://github.com/omaryasser3060"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omaryasser3060/omaryasser3060/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contributions" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -62,27 +58,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omaryasser3060&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Omar's Trophies" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Stats & Streak
+### 🐍 A Snake Eating my Contributions Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaryasser3060&show_icons=true&theme=radical&hide_border=true" alt="Omar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaryasser3060&theme=radical&hide_border=true" alt="Omar's GitHub Streak" width="48%" />
-</div>
-
----
-
-### ⚡ Recent GitHub Activity
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaryasser3060&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omaryasser3060/omaryasser3060/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omaryasser3060/omaryasser3060/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omaryasser3060/omaryasser3060/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
